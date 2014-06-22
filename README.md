@@ -1,5 +1,5 @@
 ## Samsung Galaxy S II Data Set Analysis
-#### This project is final for ["Getting and Cleaning Data"](https://class.coursera.org/getdata-004) course at Johns Hopkins University.
+#### This is a final project of ["Getting and Cleaning Data"](https://class.coursera.org/getdata-004) course at Johns Hopkins University.
 
 ### Tasks:
 
